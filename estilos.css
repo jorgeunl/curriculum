@@ -1,0 +1,41 @@
+.header {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+  }
+
+body {
+    background-color: lightblue;
+  }
+   
+  body {
+    background-color: linen;
+  }
+  
+   h2 {
+        color:blue;text-align:center
+     }
+
+  p {
+      text-align: center;
+      color: black;
+      font-size: 100%;
+    }
+     
+  p.center {
+            text-align: center;
+            color: rgb(14, 7, 7);
+           }
+            
+        
+  .p1 {
+        font-family: "Times New Roman";      
+        text-align: center;
+         color: black;
+      }
+      
+/* SELECTOR UNIVERSAL*/
+* {
+    text-align: center;
+    color: blue;
+  }
